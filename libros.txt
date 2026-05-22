@@ -1,0 +1,30 @@
+1001|Cien anos de soledad|Gabriel Garcia Marquez|1967|Sudamericana|5
+1002|Don Quijote de la Mancha|Miguel de Cervantes|1605|Francisco de Robles|3
+1003|La ciudad y los perros|Mario Vargas Llosa|1963|Seix Barral|4
+1004|El principito|Antoine de Saint-Exupery|1943|Reynal and Hitchcock|6
+1005|Rayuela|Julio Cortazar|1963|Sudamericana|2
+1006|La voragine|Jose Eustasio Rivera|1924|Cromos|3
+1007|1984|George Orwell|1949|Secker and Warburg|7
+1008|Ficciones|Jorge Luis Borges|1944|Sur|4
+1009|Pedro Paramo|Juan Rulfo|1955|Fondo de Cultura Economica|5
+1010|Orgullo y prejuicio|Jane Austen|1813|T. Egerton|2
+1011|El amor en los tiempos del colera|Gabriel Garcia Marquez|1985|Oveja Negra|4
+1012|La sombra del viento|Carlos Ruiz Zafon|2001|Planeta|6
+1013|Los detectives salvajes|Roberto Bolano|1998|Anagrama|3
+1014|Ensayo sobre la ceguera|Jose Saramago|1995|Caminho|4
+1015|El tunel|Ernesto Sabato|1948|Sur|2
+1016|La tregua|Mario Benedetti|1960|Alfa|5
+1017|Fahrenheit 451|Ray Bradbury|1953|Ballantine Books|4
+1018|Un mundo feliz|Aldous Huxley|1932|Chatto and Windus|3
+1019|Matar a un ruisenor|Harper Lee|1960|J. B. Lippincott and Co.|4
+1020|Crimen y castigo|Fiodor Dostoievski|1866|The Russian Messenger|2
+1021|Los miserables|Victor Hugo|1862|A. Lacroix Verboeckhoven|3
+1022|La metamorfosis|Franz Kafka|1915|Kurt Wolff Verlag|5
+1023|El extranjero|Albert Camus|1942|Gallimard|4
+1024|La casa de los espiritus|Isabel Allende|1982|Plaza y Janes|6
+1025|Como agua para chocolate|Laura Esquivel|1989|Planeta|3
+1026|El coronel no tiene quien le escriba|Gabriel Garcia Marquez|1961|Aguirre Editor|4
+1027|El llano en llamas|Juan Rulfo|1953|Fondo de Cultura Economica|5
+1028|Bestiario|Julio Cortazar|1951|Sudamericana|3
+1029|La fiesta del chivo|Mario Vargas Llosa|2000|Alfaguara|2
+1030|El viejo y el mar|Ernest Hemingway|1952|Charles Scribner's Sons|4
